@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/Detection"
+		},
+		{
+			"path": "../../Downloads/content/combined_faces_train_augmented"
+		}
+	],
+	"settings": {}
+}
